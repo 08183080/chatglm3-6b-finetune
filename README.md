@@ -5,3 +5,4 @@ chatglm3-6b finetune demo
 - [x] 3/5, 熟悉自定义 数据集格式
     - [x] 【广告数据集】https://huggingface.co/datasets/shibing624/AdvertiseGen/tree/main
     - [x] 通过make_dataset脚本批量化生成自定义数据
+    - [x] ChatGLM3文档: https://github.com/THUDM/GLM, 想要finetune就去阅读这个doc 
